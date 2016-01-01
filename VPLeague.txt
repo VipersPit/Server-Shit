@@ -1,18 +1,21 @@
-Meteor Falls is rebooting the league once again, this time with a grand new idea: Frontier Brains!
+[img]http://i.imgur.com/YaclM8j.png[/img]
+
+Viper's Pit is going to try the Frontier Brain league system that cares originally introduced in Meteor Falls.
 
 Frontier Brains specialize in some part of battling. What part that is depends on what Frontier Brain you are. Some Frontier Brains also have restrictions for their challengers.
 
-Every Frontier Brain has two stages (and as a result two teams): Silver Medal and Gold Medal. The Frontier Brain keeps track of their challenger's medals in their respective thread. Silver Medal is the "easy" stage, as Frontier Brain it is not the goal to make an undefeatable team, instead, try to leave some holes in your team and playstyle. Gold Medal on the other hand is the [i]real shit[/i]. Expect the Frontier Brain to go all out.
+
+Every Frontier Brain has two stages (and as a result two teams): Silver Medal and Gold Medal. The Frontier Brain keeps track of their challenger's medals in their respective thread. Silver Medal is the "easy" stage, as Frontier Brain it is not the goal to make an undefeatable team, instead, try to leave some holes in your team and playstyle. Gold Medal on the other hand is the real shit. Expect the Frontier Brain to go all out.
 
 Frontier Brains are in fact allowed to change teams, however they have to follow the rule of having a weaker team for the Silver Medal.
 
 Here are the Frontier Brain positions with their description. If you are a Frontier Brain, you have to post this at the start of your thread (you can't have custom rules).
 
-[b]Hackapell[/b] (Hyper Offense)
+Hackapell (Hyper Offense)
 [spoiler]
 The Hackapell Brain focuses on Hyper Offense (hakkaa päälle, or "cut them down"). No walls, instead powerful Pokemon focused on sweeping. You may expect a setup Pokemon for hazards, screens, or even weather.
 
-[b]Clauses[/b]
+Clauses
 ☑ Sleep Clause
 ☑ Freeze Clause
 ☐ Disallow Specs
@@ -20,21 +23,21 @@ The Hackapell Brain focuses on Hyper Offense (hakkaa päälle, or "cut them down
 ☐ Challenge Cup
 ☐ No Timeout
 ☑ Species Clause
-☑ Wifi Battle
+☑ Team Preview
 ☑ Self-KO Clause
 ☐ Inverted Battle
 
-[b]Tier[/b]: 6th Gen OU
-[b]Mode[/b]: Singles
+Tier: ORAS OU
+Mode: Singles
 
-[b]Current Brain[/b]: ~Open~
+Current Brain: Kumiho
 [/spoiler]
 
-[b]Militia[/b] (Stall)
+Militia (Stall)
 [spoiler]
 The Militia Brain focuses on Stall. Expect all kinds of annoying combinations: hazards, weather, tanks, status inflicting, and a lot of hax.
 
-[b]Clauses[/b]
+Clauses
 ☑ Sleep Clause
 ☑ Freeze Clause
 ☐ Disallow Specs
@@ -42,21 +45,21 @@ The Militia Brain focuses on Stall. Expect all kinds of annoying combinations: h
 ☐ Challenge Cup
 ☐ No Timeout
 ☑ Species Clause
-☐ Wifi Battle
+☐ Team Preview
 ☑ Self-KO Clause
 ☐ Inverted Battle
 
-[b]Tier[/b]: 6th Gen OU
-[b]Mode[/b]: Singles
+Tier: ORAS OU
+Mode: Singles
 
-[b]Current Brain[/b]: ~Open~
+Current Brain: N/A
 [/spoiler]
 
-[b]Prism[/b] (Inverted)
+Prism (Inverted)
 [spoiler]
 The Prism Brain does Inverted battles. There are no rules to their play style - besides the fact the battle has to be inverted.
 
-[b]Clauses[/b]
+Clauses
 ☑ Sleep Clause
 ☑ Freeze Clause
 ☐ Disallow Specs
@@ -64,43 +67,43 @@ The Prism Brain does Inverted battles. There are no rules to their play style - 
 ☐ Challenge Cup
 ☐ No Timeout
 ☑ Species Clause
-☑ Wifi Battle
+☑ Team Preview
 ☑ Self-KO Clause
 ☑ Inverted Battle
 
-[b]Tier[/b]: 6th Gen OU
-[b]Mode[/b]: Singles
+Tier: ORAS OU
+Mode: Singles
 
-[b]Current Brain[/b]: ~Open~
+Current Brain: Max
 [/spoiler]
 
-[b]Karp[/b] (Magikarp Cup)
+Kiddie (NFE)
 [spoiler]
-The Karp Brain masters the skills of the Magikarp Cup. In the Magikarp Cup tier, you can only use the Pokemon Magikarp. Derp derp.
+Don't let the name of this Brain fool you. The Kiddie Brain is the master of the Not Fully Evolved (NFE) metagame. You had best hone your NFE skills before facing this trainer.
 
-[b]Clauses[/b]
+Clauses
 ☑ Sleep Clause
 ☑ Freeze Clause
 ☐ Disallow Specs
 ☐ Item Clause
 ☐ Challenge Cup
 ☐ No Timeout
-☐ Species Clause
-☐ Wifi Battle
+☑ Species Clause
+☐ Team Preview
 ☑ Self-KO Clause
 ☐ Inverted Battle
 
-[b]Tier[/b]: Magikarp Cup
-[b]Mode[/b]: Singles
+Tier: NFE OU or Old NFE OU
+Mode: Singles
 
-[b]Current Brain[/b]: Kancer
+Current Brain: N/A
 [/spoiler]
 
-[b]Eureka[/b] (Challenge Cup)
+Eureka (Challenge Cup)
 [spoiler]
 The Eureka Brain is a complete surprise. You will do Challenge Cup battles. Unlike other Frontier Brains, the Gold Medal isn't anything special and is basically a second battle.
 
-[b]Clauses[/b]
+Clauses
 ☑ Sleep Clause
 ☑ Freeze Clause
 ☐ Disallow Specs
@@ -108,21 +111,21 @@ The Eureka Brain is a complete surprise. You will do Challenge Cup battles. Unli
 ☑ Challenge Cup
 ☐ No Timeout
 ☑ Species Clause
-☐ Wifi Battle
+☐ Team Preview
 ☑ Self-KO Clause
 ☐ Inverted Battle
 
-[b]Tier[/b]: Challenge Cup
-[b]Mode[/b]: Singles
+Tier: Challenge Cup
+Mode: Singles
 
-[b]Current Brain[/b]: TheUnknownOne (cares)
+Current Brain: Kancer
 [/spoiler]
 
-[b]Entropy[/b] (Any)
+Entropy (Any)
 [spoiler]
-The Entropy Brain is true disorder. They can mostly decide the mode of the battle (singles, doubles, triples), as the only Frontier Brain. Ubers, anything allowed.
+The Entropy Brain is true disorder. They can decide the mode of the battle (singles, doubles, triples) and anything goes.
 
-[b]Clauses[/b]
+Clauses
 ☐ Sleep Clause
 ☐ Freeze Clause
 ☐ Disallow Specs
@@ -130,21 +133,21 @@ The Entropy Brain is true disorder. They can mostly decide the mode of the battl
 ☐ Challenge Cup
 ☐ No Timeout
 ☐ Species Clause
-☐ Wifi Battle
+☐ Team Preview
 ☑ Self-KO Clause
 ☐ Inverted Battle
 
-[b]Tier[/b]: Gen 6 Ubers
-[b]Mode[/b]: (To be decided by the Frontier Brain)
+Tier: Anything Goes
+Mode: (To be decided by the Frontier Brain)
 
-[b]Current Brain[/b]: ~Open~
+Current Brain: N/A
 [/spoiler]
 
-[b]Cloud 9[/b] (Clear Skies)
+Cloud 9 (Clear Skies)
 [spoiler]
 The Cloud 9 Brain is all about not about weather. Yeah, that's right. No weather here, neither you nor the Frontier Brain is allowed to use weather in any way, shape, or form. Otherwise no specific play style.
 
-[b]Clauses[/b]
+Clauses
 ☑ Sleep Clause
 ☑ Freeze Clause
 ☐ Disallow Specs
@@ -152,38 +155,38 @@ The Cloud 9 Brain is all about not about weather. Yeah, that's right. No weather
 ☐ Challenge Cup
 ☐ No Timeout
 ☑ Species Clause
-☑ Wifi Battle
+☑ Team Preview
 ☑ Self-KO Clause
 ☐ Inverted Battle
 
-[b]Tier[/b]: Gen 6 OU
-[b]Mode[/b]: Singles
+Tier: ORAS OU
+Mode: Singles
 
-[b]Current Brain[/b]: ~Open~
+Current Brain: N/A
 [/spoiler]
 
-[b]Metronome[/b] (Metronome)
+Senex (Gen 5)
 [spoiler]
-The Metronome Brain does all the Metronoming in the world. You will fight in the Metronome tier, where the only move you may use is Metronome, and you may only use the Leppa Berry item. Yep.
+The Senex (Latin for "The Old") Brain is still living the past. This master will take you back to the simpler times of Gen 5, before Megas dominated the metagame. Get ready for weather wars and Terrakions.
 
-[b]Clauses[/b]
+Clauses
 ☑ Sleep Clause
 ☑ Freeze Clause
 ☐ Disallow Specs
 ☐ Item Clause
 ☐ Challenge Cup
 ☐ No Timeout
-☐ Species Clause
-☐ Wifi Battle
+☑ Species Clause
+☑ Team Preview
 ☑ Self-KO Clause
 ☐ Inverted Battle
 
-[b]Tier[/b]: Metronome
-[b]Mode[/b]: Singles
+Tier: BW2 OU
+Mode: Singles
 
-[b]Current Brain[/b]: [VP]Max
+Current Brain: Blade
 [/spoiler]
 
-Challengers should post in their challenged Frontier Brain's threads. Read the /leaguerules and their OP first. If you are looking to tryout, post below, and we will arrange something on the server with the tryout manager (currently [b]Comrade Mario[/b]).
+Challengers should post in the thread of the Frontier Brain(s) that they wish to challenge. Read the /leaguerules and their OP first. If you want to be a Brain, post below, and we will arrange something on the server.
 
 Happy medalling!
