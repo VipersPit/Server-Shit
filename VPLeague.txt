@@ -5,17 +5,17 @@ Viper's Pit is going to try the Frontier Brain league system that cares original
 Frontier Brains specialize in some part of battling. What part that is depends on what Frontier Brain you are. Some Frontier Brains also have restrictions for their challengers.
 
 
-Every Frontier Brain has two stages (and as a result two teams): Silver Medal and Gold Medal. The Frontier Brain keeps track of their challenger's medals in their respective thread. Silver Medal is the "easy" stage, as Frontier Brain it is not the goal to make an undefeatable team, instead, try to leave some holes in your team and playstyle. Gold Medal on the other hand is the real shit. Expect the Frontier Brain to go all out.
+Every Frontier Brain has two stages (and as a result two teams): Silver Medal and Gold Medal. The Frontier Brain keeps track of their challenger's medals in their respective thread. Silver Medal is the "easy" stage, as Frontier Brain it is not the goal to make an undefeatable team, instead, try to leave some holes in your team and playstyle. Gold Medal on the other hand is the [i]real shit[/i]. Expect the Frontier Brain to go all out.
 
 Frontier Brains are in fact allowed to change teams, however they have to follow the rule of having a weaker team for the Silver Medal.
 
 Here are the Frontier Brain positions with their description. If you are a Frontier Brain, you have to post this at the start of your thread (you can't have custom rules).
 
-Hackapell (Hyper Offense)
+[b]Hackapell[/b] (Hyper Offense)
 [spoiler]
 The Hackapell Brain focuses on Hyper Offense (hakkaa päälle, or "cut them down"). No walls, instead powerful Pokemon focused on sweeping. You may expect a setup Pokemon for hazards, screens, or even weather.
 
-Clauses
+[b]Clauses[/b]
 ☑ Sleep Clause
 ☑ Freeze Clause
 ☐ Disallow Specs
@@ -27,17 +27,17 @@ Clauses
 ☑ Self-KO Clause
 ☐ Inverted Battle
 
-Tier: ORAS OU
-Mode: Singles
+[b]Tier[/b]: ORAS OU
+[b]Mode[/b]: Singles
 
-Current Brain: Kumiho
+[b]Current Brain[/b]: N/A
 [/spoiler]
 
-Militia (Stall)
+[b]Militia[/b] (Stall)
 [spoiler]
 The Militia Brain focuses on Stall. Expect all kinds of annoying combinations: hazards, weather, tanks, status inflicting, and a lot of hax.
 
-Clauses
+[b]Clauses[/b]
 ☑ Sleep Clause
 ☑ Freeze Clause
 ☐ Disallow Specs
@@ -45,21 +45,21 @@ Clauses
 ☐ Challenge Cup
 ☐ No Timeout
 ☑ Species Clause
-☐ Team Preview
+☑ Team Preview
 ☑ Self-KO Clause
 ☐ Inverted Battle
 
-Tier: ORAS OU
-Mode: Singles
+[b]Tier[/b]: ORAS OU
+[b]Mode[/b]: Singles
 
-Current Brain: N/A
+[b]Current Brain[/b]: N/A
 [/spoiler]
 
-Prism (Inverted)
+[b]Prism[/b] (Inverted)
 [spoiler]
 The Prism Brain does Inverted battles. There are no rules to their play style - besides the fact the battle has to be inverted.
 
-Clauses
+[b]Clauses[/b]
 ☑ Sleep Clause
 ☑ Freeze Clause
 ☐ Disallow Specs
@@ -71,17 +71,17 @@ Clauses
 ☑ Self-KO Clause
 ☑ Inverted Battle
 
-Tier: ORAS OU
-Mode: Singles
+[b]Tier[/b]: ORAS OU
+[b]Mode[/b]: Singles
 
-Current Brain: Max
+[b]Current Brain[/b]: N/A
 [/spoiler]
 
-Kiddie (NFE)
+[b]Kiddie[/b] (NFE)
 [spoiler]
 Don't let the name of this Brain fool you. The Kiddie Brain is the master of the Not Fully Evolved (NFE) metagame. You had best hone your NFE skills before facing this trainer.
 
-Clauses
+[b]Clauses[/b]
 ☑ Sleep Clause
 ☑ Freeze Clause
 ☐ Disallow Specs
@@ -89,21 +89,21 @@ Clauses
 ☐ Challenge Cup
 ☐ No Timeout
 ☑ Species Clause
-☐ Team Preview
+☑ Team Preview
 ☑ Self-KO Clause
 ☐ Inverted Battle
 
-Tier: NFE OU or Old NFE OU
-Mode: Singles
+[b]Tier[/b]: NFE OU or Old NFE OU
+[b]Mode[/b]: Singles
 
-Current Brain: N/A
+[b]Current Brain[/b]: N/A
 [/spoiler]
 
-Eureka (Challenge Cup)
+[b]Eureka[/b] (Challenge Cup)
 [spoiler]
 The Eureka Brain is a complete surprise. You will do Challenge Cup battles. Unlike other Frontier Brains, the Gold Medal isn't anything special and is basically a second battle.
 
-Clauses
+[b]Clauses[/b]
 ☑ Sleep Clause
 ☑ Freeze Clause
 ☐ Disallow Specs
@@ -115,17 +115,17 @@ Clauses
 ☑ Self-KO Clause
 ☐ Inverted Battle
 
-Tier: Challenge Cup
-Mode: Singles
+[b]Tier[/b]: Challenge Cup
+[b]Mode[/b]: Singles
 
-Current Brain: Kancer
+[b]Current Brain[/b]: N/A
 [/spoiler]
 
-Entropy (Any)
+[b]Entropy[/b] (Any)
 [spoiler]
 The Entropy Brain is true disorder. They can decide the mode of the battle (singles, doubles, triples) and anything goes.
 
-Clauses
+[b]Clauses[/b]
 ☐ Sleep Clause
 ☐ Freeze Clause
 ☐ Disallow Specs
@@ -137,17 +137,17 @@ Clauses
 ☑ Self-KO Clause
 ☐ Inverted Battle
 
-Tier: Anything Goes
-Mode: (To be decided by the Frontier Brain)
+[b]Tier[/b]: Anything Goes
+[b]Mode[/b]: (To be decided by the Frontier Brain)
 
-Current Brain: N/A
+[b]Current Brain[/b]: N/A
 [/spoiler]
 
-Cloud 9 (Clear Skies)
+[b]Cloud 9[/b] (Clear Skies)
 [spoiler]
 The Cloud 9 Brain is all about not about weather. Yeah, that's right. No weather here, neither you nor the Frontier Brain is allowed to use weather in any way, shape, or form. Otherwise no specific play style.
 
-Clauses
+[b]Clauses[/b]
 ☑ Sleep Clause
 ☑ Freeze Clause
 ☐ Disallow Specs
@@ -159,17 +159,17 @@ Clauses
 ☑ Self-KO Clause
 ☐ Inverted Battle
 
-Tier: ORAS OU
-Mode: Singles
+[b]Tier[/b]: ORAS OU
+[b]Mode[/b]: Singles
 
-Current Brain: N/A
+[b]Current Brain[/b]: N/A
 [/spoiler]
 
-Senex (Gen 5)
+[b]Senex[/b] (Gen 5)
 [spoiler]
-The Senex (Latin for "The Old") Brain is still living the past. This master will take you back to the simpler times of Gen 5, before Megas dominated the metagame. Get ready for weather wars and Terrakions.
+The Senex (Latin for [b]"The Old"[/b]) Brain is still living the past. This master will take you back to the simpler times of Gen 5, before Megas dominated the metagame. Get ready for weather wars and Terrakions.
 
-Clauses
+[b]Clauses[/b]
 ☑ Sleep Clause
 ☑ Freeze Clause
 ☐ Disallow Specs
@@ -181,10 +181,10 @@ Clauses
 ☑ Self-KO Clause
 ☐ Inverted Battle
 
-Tier: BW2 OU
-Mode: Singles
+[b]Tier[/b]: BW2 OU
+[b]Mode[/b]: Singles
 
-Current Brain: Blade
+[b]Current Brain[/b]: Blade
 [/spoiler]
 
 Challengers should post in the thread of the Frontier Brain(s) that they wish to challenge. Read the /leaguerules and their OP first. If you want to be a Brain, post below, and we will arrange something on the server.
